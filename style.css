@@ -1,0 +1,17 @@
+.container{
+	background: orange;
+	height: 600px;
+}
+
+.container h1{
+	text-align: center;
+	color: #fff;
+}
+ button{
+	padding: 10px;
+	margin-left: 400px;
+	color: #fff;
+	background: navy;
+	border-radius: 5px;
+	cursor: pointer;
+}
